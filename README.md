@@ -68,7 +68,7 @@ To get a local copy up and running, compile the source code natively via GCC/G++
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/username/car-dealership-system.git
+   git clone https://github.com/jerichd4c/car-dealership-sistem.git
    ```
 2. Navigate to the project directory
    ```sh
