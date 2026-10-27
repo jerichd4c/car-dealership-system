@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/jerichd4c/car-dealership-sistem">
+  <a href="https://github.com/jerichd4c/car-dealership-system">
     <img src="https://raw.githubusercontent.com/jerichd4c/logos/main/cpp_logo.svg" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -68,7 +68,7 @@ To get a local copy up and running, compile the source code natively via GCC/G++
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/car-dealership-sistem.git
+   git clone https://github.com/jerichd4c/car-dealership-system.git
    ```
 2. Navigate to the project directory
    ```sh
